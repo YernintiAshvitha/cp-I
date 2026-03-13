@@ -1,0 +1,13 @@
+timestamp,url,score,grade,risk_level,activity,activity_confidence,reason,features_loaded
+2025-11-21T07:38:39.021946,http://192.168.1.5/secure/login.html,30,B (Safe),Low Risk,Suspicious / Manual Review Recommended,30,suspicious keywords in URL (login/verify/account),False
+2025-11-21T07:39:05.354717,https://www.shopify.com/login,10,A (Very Safe),Very Low Risk,Suspicious / Manual Review Recommended,30,suspicious keywords in URL (login/verify/account),False
+2025-11-21T07:40:16.596324,https://www.vrsiddhartha.ac.in/vrsec-faculty/,0,A (Very Safe),Very Low Risk,Benign / Safe Website,95,Trusted domain indicators and no malicious features detected,False
+2025-11-30T11:14:51.979359,https://secure-update-payments-amazon-support.com/login,10,A (Very Safe),Very Low Risk,Suspicious / Manual Review Recommended,30,suspicious keywords in URL (login/verify/account),False
+2025-11-30T11:16:34.893554,http://192.168.43.90/admin/login.php,50,C (Moderate Risk),Medium Risk,Suspicious / Manual Review Recommended,30,suspicious keywords in URL (login/verify/account),False
+2025-11-30T11:17:17.536785,https://www.india.gov.in/,0,A (Very Safe),Very Low Risk,Benign / Safe Website,95,Trusted domain indicators and no malicious features detected,False
+2025-12-01T10:59:16.634109,https://www.google.com/,0,A (Very Safe),Very Low Risk,Suspicious / Manual Review Recommended,30,Heuristic fallback (no strong signals),True
+2025-12-01T11:00:04.483673,https://www.google.com/,0,A (Very Safe),Very Low Risk,Suspicious / Manual Review Recommended,30,Heuristic fallback (no strong signals),True
+2025-12-01T11:00:44.565980,http://192.168.43.90/admin/login.php,50,C (Moderate Risk),Medium Risk,Suspicious / Manual Review Recommended,30,suspicious keywords in URL (login/verify/account),False
+2025-12-01T11:02:10.778133,http://bankofamerica-login-alerts.net,30,B (Safe),Low Risk,Suspicious / Manual Review Recommended,30,suspicious keywords in URL (login/verify/account),False
+2025-12-22T00:24:30.083462,https://www.vrsiddhartha.ac.in/vrsec-faculty/,0,A (Very Safe),Very Low Risk,Benign / Safe Website,95,Trusted domain indicators and no malicious features detected,False
+2025-12-22T00:25:13.771355,http://192.168.1.5/secure/login.html,30,B (Safe),Low Risk,Suspicious / Manual Review Recommended,30,suspicious keywords in URL (login/verify/account),False
